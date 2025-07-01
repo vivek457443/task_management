@@ -34,7 +34,7 @@ This To-Do List app allows you to manage your tasks efficiently and stay organiz
 
 - This app is not optimized for mobile devices.
 
-- For any questions or issues, feel free to contact the developer, Azim Baji Krishna.
+- For any questions or issues, feel free to contact the developer,Vivek Tiwari.
 
 "Please note that for the app to work properly, you need to host it on a localhost or a server. Simply opening the index file as a web page won't provide the required functionality."
 
