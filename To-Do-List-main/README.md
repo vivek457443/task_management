@@ -38,7 +38,7 @@ The To-Do List app is a simple and efficient task management tool that helps you
 
 ## Try it Online 💻
 
-You can try the To Do List application online by following [this link](ttps://github.com/vivek457443/task_management/edit/main/To-Do-List-main)
+You can try the To Do List application online by following [this link](https://github.com/vivek457443/task_management/edit/main/To-Do-List-main)
 
 ## Feedback and Support 💌
 
