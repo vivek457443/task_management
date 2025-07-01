@@ -38,10 +38,10 @@ The To-Do List app is a simple and efficient task management tool that helps you
 
 ## Try it Online 💻
 
-You can try the To Do List application online by following [this link](.
+You can try the To Do List application online by following [this link](ttps://github.com/vivek457443/task_management/edit/main/To-Do-List-main)
 
 ## Feedback and Support 💌
 
-Thank you for using my To-Do List app. I hope it helps you stay organized and productive. If you have any feedback, or suggestions, or encounter any issues, please feel free to contact the developer, Azim Baji Krishna, at azimbaji19@gmail.com
+Thank you for using my To-Do List app. I hope it helps you stay organized and productive. If you have any feedback, or suggestions, or encounter any issues, please feel free to contact the developer, vivek Tiwari, at vivektiwari88810@gmail.com
 
 Happy tasking! 😊
